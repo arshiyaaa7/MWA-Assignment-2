@@ -56,7 +56,7 @@ MWA-Assignment-2/
 2. Navigate to the **Register** page to sign up for an event.
 3. View registered participants on the same page.
 
-## Add Images 📷
+## Images 📷
 Home Page of the website :
 ![Screenshot 2025-04-07 173729](https://github.com/user-attachments/assets/2f91f7f1-2a3d-4b63-884f-d7efa296b353)
 
