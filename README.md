@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-MWA-Assignment-2 is a web-based event registration application developed using PHP, HTML, CSS, and MySQL. The project is designed for managing event registrations for JSPM's Rajarshi Shahu College of Engineering. It provides an easy-to-use interface for students to register for various events and allows the admin to view registered participants.
+This is a web-based event registration application developed using PHP, HTML, CSS, and MySQL. The project is designed for managing event registrations for JSPM's Rajarshi Shahu College of Engineering. It provides an easy-to-use interface for students to register for various events and allows the admin to view registered participants.
 
 ### Features 🌟
 
