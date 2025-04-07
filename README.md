@@ -47,9 +47,6 @@ MWA-Assignment-2/
    - Open phpMyAdmin and create a database named `gandharva`.
    - Make sure the database has a table called `registrations` with fields like `id`, `name`, `email`, `phone`, `event`, and `registered_at`.
 
-## How My Database Looks 📊
-(Add a screenshot of your database structure here)
-
 ## Usage 💻
 
 1. Access the application:
@@ -59,13 +56,25 @@ MWA-Assignment-2/
 2. Navigate to the **Register** page to sign up for an event.
 3. View registered participants on the same page.
 
-## Troubleshooting 🐞
-
-- If the registration form does not work, ensure that:
-  - MySQL is running on port 3307 (update db_connect.php if needed).
-  - The database credentials in `db_connect.php` are correct.
-
 ## Add Images 📷
 Home Page of the website :
-
 ![Screenshot 2025-04-07 173729](https://github.com/user-attachments/assets/2f91f7f1-2a3d-4b63-884f-d7efa296b353)
+
+To establish connection , install xampp and start mysql as follows:
+![1](https://github.com/user-attachments/assets/6e7605a1-68b3-43ec-bd04-e4579d700d5c)
+
+Go to the registration page and register yourself. The database will reflect the changes:
+![2](https://github.com/user-attachments/assets/d457d878-2475-404f-bbb9-057e0459b321)
+
+![3](https://github.com/user-attachments/assets/610f5a51-4e87-4a9a-92fe-c043b77e9fd7)
+
+Adding more users:
+![6](https://github.com/user-attachments/assets/a2362e65-afc4-4b68-849b-1022313c3676)
+
+Now the Mysql database looks like : 
+![5](https://github.com/user-attachments/assets/803d7d2a-847d-4d24-9212-0bb120127c70)
+
+Contact us page:
+![8](https://github.com/user-attachments/assets/4e57d72d-ae98-47ae-b859-7b1c097407ad)
+
+Thank you for reading!
