@@ -1,4 +1,4 @@
-# MWA-Assignment-2 🚀
+# PHP Project 🚀
 
 ## Project Overview
 
